@@ -1,0 +1,27 @@
+/* Media queries */
+@media screen and (min-width: 45.56em) {
+  .grid_preview-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .preview_card_text-box {
+    text-align: left;
+    grid-row: 1;
+  }
+
+  .stats_preview {
+    flex-direction: row;
+    gap: 60px;
+  }
+
+  .bg_img {
+    grid-column: 2/-1;
+  }
+}
+
+@media screen and (min-width: 75em) {
+  .container {
+    max-width: 120rem;
+  }
+}
