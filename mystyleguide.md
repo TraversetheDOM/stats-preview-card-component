@@ -1,0 +1,98 @@
+# Essential Stuff
+
+## Google Imports
+
+```html
+<link rel="stylesheet" href="css/myreset.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/queries.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+  rel="stylesheet"
+/>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap"
+  rel="stylesheet"
+/>
+```
+
+## Colors
+
+```css
+--very-dark-blue-main-background: hsl(233, 47%, 7%);
+--dark-saturated-blue-card-background: hsl(244, 38%, 16%);
+--soft-violet: hsl(277, 64%, 61%);
+--white-main-heading-stats: hsl(0, 0%, 100%);
+--sligthly-transparent-white-main-paragraph: hsla(0, 0%, 100%, 0.75);
+--slightly-transparent-white-stat-headings: hsla(0, 0%, 100%, 0.6);
+```
+
+## Typography
+
+```css
+--fw-400: 400;
+--fw-700: 700;
+--ff-Inter: "Inter", sans-serif;
+--ff-Lexand-Deca: "Lexend Deca", sans-serif;
+--fs-1: clamp(0.11rem, calc(0.11rem + 0.02vw), 0.13rem);
+--fs-2: clamp(0.14rem, calc(0.14rem + 0.03vw), 0.18rem);
+--fs-3: clamp(0.21rem, calc(0.19rem + 0.04vw), 0.24rem);
+--fs-4: clamp(0.27rem, calc(0.26rem + 0.05vw), 0.32rem);
+--fs-5: clamp(0.35rem, calc(0.34rem + 0.06vw), 0.43rem);
+--fs-6: clamp(0.48rem, calc(0.45rem + 0.08vw), 0.58rem);
+--fs-7: clamp(0.64rem, calc(0.59rem + 0.11vw), 0.77rem);
+--fs-8: clamp(0.85rem, calc(0.8rem + 0.15vw), 1.01rem);
+--fs-9: clamp(1.12rem, calc(1.06rem + 0.2vw), 1.34rem);
+--fs-10: clamp(1.5rem, calc(1.42rem + 0.27vw), 1.81rem);
+--fs-11: clamp(2rem, calc(1.89rem + 0.35vw), 2.4rem);
+--fs-12: clamp(2.67rem, calc(2.51rem + 0.47vw), 3.2rem);
+--fs-13: clamp(3.55rem, calc(3.36rem + 0.63vw), 4.27rem);
+--fs-14: clamp(4.74rem, calc(4.48rem + 0.84vw), 5.68rem);
+--fs-14: clamp(6.32rem, calc(5.97rem + 1.12vw), 7.58rem);
+--fs-15: clamp(8.42rem, calc(7.95rem + 1.49vw), 10.1rem);
+```
+
+## Spacing
+
+```css
+--space-1: clamp(0.3rem, calc(0.3rem + 0vw), 0.3rem);
+--space-2: clamp(0.5rem, calc(0.48rem + 0.09vw), 0.61rem);
+--space-3: clamp(1.01rem, calc(0.94rem + 0.18vw), 1.2rem);
+--space-4: clamp(1.5rem, calc(1.42rem + 0.27vw), 1.81rem);
+--space-5: clamp(2rem, calc(1.89rem + 0.35vw), 2.4rem);
+--space-6: clamp(3.01rem, calc(2.83rem + 0.53vw), 3.6rem);
+--space-7: clamp(4rem, calc(3.78rem + 0.71vw), 4.8rem);
+--space-8: clamp(6rem, calc(5.66rem + 1.06vw), 7.2rem);
+--space-9: clamp(8rem, calc(7.55rem + 1.42vw), 9.6rem);
+--space-10: clamp(12rem, calc(11.3rem + 2.13vw), 14.4rem);
+--space-11: clamp(16rem, calc(15.12rem + 2.84vw), 19.2rem);
+
+/* One Up Pairs */
+--space-1-2: clamp(0.3rem, calc(0.22rem + 0.27vw), 0.61rem);
+--space-2-3: clamp(0.5rem, calc(0.3rem + 0.62vw), 1.2rem);
+--space-3-4: clamp(1.1rem, calc(0.78rem + 0.71vw), 1.81rem);
+--space-4-5: clamp(1.5rem, calc(1.25rem + 0.8vw), 2.4rem);
+--space-5-6: clamp(2rem, calc(1.55rem + 1.42vw), 3.6rem);
+--space-6-7: clamp(3.01rem, calc(2.5rem + 1.6vw), 4.8rem);
+--space-7-8: clamp(4rem, calc(3.12rem + 2.84vw), 7.2rem);
+--space-8-9: clamp(6rem, calc(5.01rem + 3.19vw), 9.6rem);
+--space-9-10: clamp(8rem, calc(6.22rem + 5.67vw), 14.4rem);
+--space-10-11: clamp(12rem, calc(10.02rem + 6.38vw), 19.2rem);
+
+/* Custom Pairs */
+--space-5-7: clamp(2rem, calc(1.23rem + 2.48vw), 4.8rem);
+--space-6-8: clamp(3.01rem, calc(1.84rem + 3.72vw), 7.2rem);
+--space-7-9: clamp(4rem, calc(2.45rem + 4.96vw), 9.6rem);
+```
+
+## Radius
+
+```css
+--radius-1: 10px;
+--radius-2: 20px;
+--radius-3: 30px;
+```
