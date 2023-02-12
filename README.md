@@ -30,8 +30,8 @@ _A screen shot of the mobile view_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/stats-preview-card-component/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/stats-preview-card-component)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/stats-preview-card-component/)
 
 ## My process
 
