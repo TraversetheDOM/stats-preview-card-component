@@ -30,8 +30,8 @@ _A screen shot of the mobile view_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/stats-preview-card-component/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/stats-preview-card-component)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -44,7 +44,7 @@ _A screen shot of the mobile view_
 
 ### What I learned
 
-Made use of the picture elemnent to set different images at different break points. See code snippet below;
+Using the picture element to set different images at different breakpoints. See the code snippet below;
 
 ```html
 <picture class="bg_img">
@@ -73,15 +73,15 @@ I also learnt about the mix-blend-mode which was applied to the image to give it
 
 ### Continued Development
 
-The use of this mix-blend-mode is something I can't say I am very comfortable with so it will be praciced in more future projects.
+The use of this mix-blend mode is something I can't say I am very comfortable with, so it will be practised in more future projects.
 
 ### Useful resources
 
-- [Kevin Powell](https://www.youtube.com/watch?v=TAA89nkEuhw) - This tutorial video was really helpful as its where I was able to figure out how to use the mix-blend-mode to make then image appear the way it did.
-- [CSS-Tricks](https://css-tricks.com/almanac/properties/m/mix-blend-mode/) - This is an amazing article which helped me as well when trying to figure out how to the mix-blend mode property works.
+- [Kevin Powell](https://www.youtube.com/watch?v=TAA89nkEuhw) - This tutorial video was beneficial as its where I was able to figure out how to use the mix-blend-mode to make then image appear the way it did.
+- [CSS-Tricks](https://css-tricks.com/almanac/properties/m/mix-blend-mode/) - This is a fantastic article which helped me as well when trying to figure out how to the mix-blend mode property works.
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
